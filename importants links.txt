@@ -1,0 +1,4 @@
+A voice controlled extension box using commands given with the help of an app.
+Patent no. US4597077A
+Google patents links :
+https://patents.google.com/patent/US4597077A/en?q=voice&q=control&q=switch&q=board&oq=voice+control+switch+board+
